@@ -1,0 +1,31 @@
+.catp{
+  color:red;
+  transform-origin: left top;
+  transition: transform 1s;
+}
+.catp:hover{
+  color:blue;
+  cursor: pointer;
+  transform: rotate(10deg) scale(2)
+
+}
+.img{
+  border-radius: 50%;
+}
+.text{
+  text-decoration: underline;
+}
+.cat{
+  border-radius:20% ;
+}
+.field{
+  width: 40vw;
+  border: 3px solid red;
+}
+.btn{
+  height: 25px;
+  background-color:rgb(236, 228, 228);
+  color:black;
+  margin-top: 10px;
+
+}
